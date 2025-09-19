@@ -1,7 +1,3 @@
-Harika! Senin eklediğin özellikleri de vurgulayacak şekilde README dosyasını güncelleyebiliriz. Önerim aşağıdaki gibi bir versiyon:
-
----
-
 # Email Scraper & Sender Tool 📧✉️
 
 A Python-based tool that **scrapes websites for emails** and **sends automated emails** using a customizable template. Built on top of the original open-source Email Scraper project by [AdrianTomin](https://github.com/AdrianTomin), with additional features for automated mail campaigns.
